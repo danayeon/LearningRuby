@@ -4,6 +4,10 @@
  - [Hash](https://docs.ruby-lang.org/ja/latest/class/Hash.html)
  - [String](https://docs.ruby-lang.org/ja/latest/class/String.html)
 
+# 使えそうな自作関数
+method.rbに記載
+コピペで使用可能
+
 # ファイル実行コマンド
 ##### 配列
  - 配列のローテーション(rotate)
