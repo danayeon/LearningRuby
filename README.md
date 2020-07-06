@@ -14,6 +14,8 @@
    - ruby scan_string.rb
  - 文字列の最初の文字の文字コード(ord)
    - ruby string_ord
+ - 指定文字の削除
+   - ruby delete_part_string.rb
 
 ##### 数値
  - 切り捨て、切り上げ、四捨五入(floor, ceil, round)
