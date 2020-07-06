@@ -14,7 +14,7 @@
    - ruby scan_string.rb
  - 文字列の最初の文字の文字コード(ord)
    - ruby string_ord
- - 指定文字の削除
+ - 指定文字の削除(delete delete_prefix delete_suffix)
    - ruby delete_part_string.rb
 
 ##### 数値
