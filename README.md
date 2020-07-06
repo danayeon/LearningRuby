@@ -15,6 +15,9 @@
  - 文字列の最初の文字の文字コード(ord)
    - ruby string_ord
 
+##### 数値
+ - 切り捨て、切り上げ、四捨五入(floor, ceil, round)
+   - ruby arrange_integer.rb
 ##### その他
  - 比較演算子の優先順位
    - ruby operator_priority.rb
