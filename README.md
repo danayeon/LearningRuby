@@ -7,14 +7,14 @@
 # ファイル実行コマンド
 ##### 配列
  - 配列のローテーション(rotate)
-  - ruby arry_rotate.rb
+   - ruby arry_rotate.rb
 
 ##### 文字列
  - 部分文字列の配列(scan)
-  - ruby scan_string.rb
+   - ruby scan_string.rb
  - 文字列の最初の文字の文字コード(ord)
-  - ruby string_ord
+   - ruby string_ord
 
 ##### その他
  - 比較演算子の優先順位
-  - ruby operator_priority.rb
+   - ruby operator_priority.rb
