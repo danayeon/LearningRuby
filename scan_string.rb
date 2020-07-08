@@ -28,3 +28,4 @@
 
 # 文字数指定
   p "foobarbazfoobarbaz".scan(/.{1,5}/)
+  # => ["fooba", "rbazf", "oobar", "baz"]
