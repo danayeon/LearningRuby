@@ -20,6 +20,8 @@ method.rbに記載
    - ruby string_ord
  - 指定文字の削除(delete delete_prefix delete_suffix)
    - ruby delete_part_string.rb
+ - 指定部分文字列の置換(gsub)
+   - ruby gsub_string.rb
 
 ##### 数値
  - 切り捨て、切り上げ、四捨五入(floor, ceil, round)
